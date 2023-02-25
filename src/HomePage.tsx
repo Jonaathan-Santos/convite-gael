@@ -85,7 +85,7 @@ function HomePage() {
       </div>
      
       <div className='text-white text-xl mb-1 -translate-y-[100px]'>
-        Dia <span className='text-amarelo text-4xl'>05</span> de <span className='text-amarelo text-4xl'>Março</span> de <span className='text-amarelo text-4xl'>2023</span>
+        Dia <span className='text-amarelo text-4xl'>04</span> de <span className='text-amarelo text-4xl'>Março</span> de <span className='text-amarelo text-4xl'>2023</span>
       </div>
       <div className='flex w-full mt-3 text-marinho -translate-y-[90px]'>
         {
